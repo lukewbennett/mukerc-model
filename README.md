@@ -1,6 +1,6 @@
-# MUKERC — Multi-Use Kilowatt-hour Electricity Rate Calculator
+# MUKERC — Modelling UK Electricity Regional Costs
 
-A Python pipeline for decomposing UK non-domestic electricity costs across all network tariff components. Covers all 14 GB DNO regions and financial years 2017–2027, with support for Generic benchmark analysis and Specific site-level case studies.
+A Python pipeline for decomposing UK non-domestic electricity costs across all network tariff components. Covers all 14 GB DNO regions and financial years 2017–2026, with support for Generic benchmark analysis and Specific site-level case studies.
 
 **Cost components modelled:**
 - Distribution Use of System (DUoS) — volumetric, fixed, capacity, reactive, and exceeded capacity charges
